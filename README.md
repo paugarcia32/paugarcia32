@@ -6,6 +6,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [New DEV user](https://dev.to/paugarcia32/new-dev-user-o15)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
