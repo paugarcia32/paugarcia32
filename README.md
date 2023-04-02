@@ -1,13 +1,10 @@
 <h1 align="center">Pau Garcia</h1>
 
 **`Network Engenieering`**
-
-
-
 <p align="center">
   <img alt="upc" width="60px" src="https://imgs.search.brave.com/9PrhmIoR2hyH5O0tlI5gevr3xn7N59G8ZvE3hLiXpFI/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9nZW9t/YXRpY2Flcy5jb20v/d2ViL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE1LzA0L3VwYy1s/b2dvLmdpZg.gif"/></a> 
   <img alt="eetac" width="60px" src="https://imgs.search.brave.com/cixlPNyTLJ3OUhMybXBWC_2fuIVu6x1SQhqvdHKsMgg/rs:fit:400:400:1/g:ce/aHR0cHM6Ly9wYnMu/dHdpbWcuY29tL3By/b2ZpbGVfaW1hZ2Vz/LzEwNTU0OTQ1OTQw/MzU3MDM4MDgvbTM2/LVA5YjdfNDAweDQw/MC5qcGc"/></a> 
- </p><br/>
+ </p>
  
 
 
@@ -18,7 +15,6 @@
  <p align=left>
  In this GitHub you can see the projects I'm working on, and some exercises to practice my programming skills.
  </p>
- <br/>
  
  # Blog posts
 
@@ -40,7 +36,6 @@
 
 
 
-<br/>
 <br/>
 <br/>
 <br/>
