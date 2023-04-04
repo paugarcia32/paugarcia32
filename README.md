@@ -19,10 +19,10 @@
  # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dual-boot Ubuntu-Windows 11](https://dev.to/paugarcia32/dual-boot-ubuntu-windows-11-4n69)
+- [Ubuntu basic configuration](https://dev.to/paugarcia32/ubuntu-basic-configuration-50i6)
 - [Dual Boot Windows 11 - Arch Linux with different drives](https://dev.to/paugarcia32/dual-boot-windows-11-arch-linux-with-different-drives-2h08)
 - [Multiple git accounts in one computer &lpar;ssh&rpar;](https://dev.to/paugarcia32/multiple-git-accounts-in-one-computer-ssh-26kl)
-- [Customisimg windows powershell](https://dev.to/paugarcia32/customisimg-windows-powershell-2a5p)
-- [New DEV user](https://dev.to/paugarcia32/new-dev-user-o15)
 <!-- BLOG-POST-LIST:END -->
  
 
