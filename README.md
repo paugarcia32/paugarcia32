@@ -19,10 +19,10 @@
  # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Customize zsh](https://dev.to/paugarcia32/customize-zsh-5hj9)
 - [Dual-boot Ubuntu-Windows 11](https://dev.to/paugarcia32/dual-boot-ubuntu-windows-11-4n69)
 - [Ubuntu basic configuration](https://dev.to/paugarcia32/ubuntu-basic-configuration-50i6)
 - [Dual Boot Windows 11 - Arch Linux with different drives](https://dev.to/paugarcia32/dual-boot-windows-11-arch-linux-with-different-drives-2h08)
-- [Multiple git accounts in one computer &lpar;ssh&rpar;](https://dev.to/paugarcia32/multiple-git-accounts-in-one-computer-ssh-26kl)
 <!-- BLOG-POST-LIST:END -->
  
 
