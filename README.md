@@ -1,22 +1,54 @@
 <h1 align="center">Pau Garcia</h1>
 
-**`Network Engenieering`**
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/paugarcia32/count.svg" />
+</p>
+
+<table width="100%" align="center">
+<tr>
+<td align="center">
+<h2>About me</h2>
+  <p>Welcome to my GitHub repository! Here, you can find the projects I'm currently working on and a collection of exercises I use to practice and improve my programming skills.</p>
+  <p>I have a strong passion for technology and programming. Through personal projects and continuous learning, I strive to enhance my skills and stay up-to-date with the latest trends in the field.</p>
+  <p>Feel free to browse through my projects and exercises. I am always open to feedback, collaborations, and discussions.</p>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+</td>
+
+
+<td align="center">
+<h2>University</h2>
 <p align="center">
-  <img alt="upc" width="60px" src="https://imgs.search.brave.com/9PrhmIoR2hyH5O0tlI5gevr3xn7N59G8ZvE3hLiXpFI/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9nZW9t/YXRpY2Flcy5jb20v/d2ViL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE1LzA0L3VwYy1s/b2dvLmdpZg.gif"/></a> 
-  <img alt="eetac" width="60px" src="https://imgs.search.brave.com/cixlPNyTLJ3OUhMybXBWC_2fuIVu6x1SQhqvdHKsMgg/rs:fit:400:400:1/g:ce/aHR0cHM6Ly9wYnMu/dHdpbWcuY29tL3By/b2ZpbGVfaW1hZ2Vz/LzEwNTU0OTQ1OTQw/MzU3MDM4MDgvbTM2/LVA5YjdfNDAweDQw/MC5qcGc"/></a> 
+<a href="https://eetac.upc.edu/ca" target="_blank">
+  <img src="https://github.com/paugarcia32/paugarcia32/blob/main/Assets/eetac-modified.png" width="50" hspace="5">
+</a>
+<a href="https://www.upc.edu/ca" target="_blank"><img src="https://github.com/paugarcia32/paugarcia32/blob/main/Assets/upc.gif" width="50" hspace="5"></a>
+  &nbsp;&nbsp;
  </p>
- 
+  <p>I am a 3rd-year student studying Network Engineering at the EETAC campus of UPC. I have a strong passion for both programming and exploring the dynamic world of networking.</p>
+  <p>I enjoy diving into coding projects that leverage networking concepts and technologies. Feel free to connect with me to discuss networking, programming, share ideas, or collaborate on exciting projects within these domains!</p>
+  <p></p>
+  <p>⬇️Here you can find all the projects I've been working on during the university⬇️</p>
+  <a href="https://github.com/PabloGarciaCaldero" target="_blank"><img src="https://github.com/paugarcia32/paugarcia32/blob/main/Assets/prof-modified.png" width="50" hspace="5"></a>
+  &nbsp;&nbsp;
 
 
-<img align=right alt="Programmig guy" width="50%" src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" />
-<p align=left>
- I am currently in the third year of network engineering.
- </p>
- <p align=left>
- In this GitHub you can see the projects I'm working on, and some exercises to practice my programming skills.
- </p>
+</td>
+</tr>
+</table>
+
+
+
+
+
  
- # Blog posts
+ ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Customize zsh](https://dev.to/paugarcia32/customize-zsh-5hj9)
@@ -36,17 +68,10 @@
 
 
 
-<br/>
-<br/>
-<br/>
 
 
 
-
-
-
-
-### 🧰 Languages and tools I have used or currently use
+<h2 align=center>🧰 Languages and tools I have used or currently use</h2>
 
 <!-- WEB -->
 <div align=center>
@@ -71,11 +96,11 @@
 <br/>
 
                       
-#
-
-
+<h2 align=center>My Stats</h2>
 <div align=center>
-  <a href="(https://github.com/paugarcia32)">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=paugarcia32&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paugarcia32&layout=compact&show_icons=true&theme=tokyonight"/></div>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=paugarcia32&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paugarcia32&layout=compact&show_icons=true&theme=tokyonight"/>
+  
+</div>
