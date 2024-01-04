@@ -37,13 +37,6 @@
 
 
 
-
-
- 
- ### Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
  
 
 <h2 align=center>🧰 Languages and tools I have used or currently use</h2>
