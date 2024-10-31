@@ -26,7 +26,7 @@
 <a href="https://www.upc.edu/ca" target="_blank"><img src="https://github.com/paugarcia32/paugarcia32/blob/main/Assets/upc.gif" width="50" hspace="5"></a>
   &nbsp;&nbsp;
  </p>
-  <p>I am a 3rd-year student studying Network Engineering at the EETAC campus of UPC. I have a strong passion for both programming and exploring the dynamic world of networking.</p>
+  <p>I am a Network Engineering graduate.</p>
   <p>I enjoy diving into coding projects that leverage networking concepts and technologies. Feel free to connect with me to discuss networking, programming, share ideas, or collaborate on exciting projects within these domains!</p>
   <p></p>
   <p align='center'>⬇️Here you can find all the projects I've been working on during the university⬇️</p>
