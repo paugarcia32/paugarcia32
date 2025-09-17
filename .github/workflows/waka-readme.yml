@@ -1,0 +1,29 @@
+# .github/workflows/waka-readme.yml
+name: Waka Readme
+
+on:
+  schedule:
+    # cada día a las 06:30 Europe/Madrid ≈ 04:30 UTC (ajústalo a tu gusto)
+    - cron: '30 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write   # necesario para commitear cambios en el README
+
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    environment: prod   # <-- IMPORTANTE: así el job puede leer los secretos del entorno "prod"
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # flags opcionales útiles al principio:
+          DEBUG_LOGGING: "True"
+          SHOW_LINES_OF_CODE: "False"   # desactívalo al inicio (consume más)
+          COMMIT_BY_ME: "True"
+          COMMIT_MESSAGE: "chore(readme): update dev metrics"
+          # Si cambiaste la etiqueta en tu README, descomenta y ajusta:
+          # SECTION_NAME: "waka"
