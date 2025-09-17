@@ -24,6 +24,9 @@ jobs:
           DEBUG_LOGGING: "True"
           SHOW_LINES_OF_CODE: "False"   # desactívalo al inicio (consume más)
           COMMIT_BY_ME: "True"
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_LOC_CHART: "False"
           COMMIT_MESSAGE: "chore(readme): update dev metrics"
           # Si cambiaste la etiqueta en tu README, descomenta y ajusta:
           # SECTION_NAME: "waka"
