@@ -20,15 +20,11 @@ Currently I'm a full stack developer, bulding a cross platform mobile app
 - i've created an IOT protocol based on **LoRa** able to comunicate up to 4 nodes with a gateway, combinating **CSMA** and **TWDM** medium access protocols to avoid collisions while transimting information, and a negociation phase between gateway and nodes to select the optimal **SF** to optimize the **Time on Air** to respect european regulations
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 303.8 kB Used in GitHub's Storage 
  > 
-> 🏆 347 Contributions in the Year 2025
+> 🏆 349 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,20 +36,20 @@ Currently I'm a full stack developer, bulding a cross platform mobile app
 
 ```text
 🌞 Morning                14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-🌆 Daytime                271 commits         ████████░░░░░░░░░░░░░░░░░   30.62 % 
-🌃 Evening                479 commits         ██████████████░░░░░░░░░░░   54.12 % 
-🌙 Night                  121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+🌆 Daytime                273 commits         ████████░░░░░░░░░░░░░░░░░   30.78 % 
+🌃 Evening                479 commits         ██████████████░░░░░░░░░░░   54.00 % 
+🌙 Night                  121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   134 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Tuesday                  121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Wednesday                78 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-Thursday                 191 commits         █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
-Friday                   107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Saturday                 136 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Sunday                   118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Monday                   134 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Tuesday                  121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Wednesday                80 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Thursday                 191 commits         █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+Friday                   107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Saturday                 136 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Sunday                   118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
 ```
 
 
@@ -87,12 +83,8 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/paugarcia32/paugarcia32/main/assets/bar_graph.png)
-
-
- Last Updated on 17/09/2025 10:41:12 UTC
+ Last Updated on 17/09/2025 10:53:00 UTC
 <!--END_SECTION:waka-->
 
 
