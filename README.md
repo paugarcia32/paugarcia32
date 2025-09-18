@@ -32,45 +32,6 @@ Currently I'm a full stack developer, bulding a cross platform mobile app
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-🌆 Daytime                273 commits         ████████░░░░░░░░░░░░░░░░░   30.78 % 
-🌃 Evening                479 commits         ██████████████░░░░░░░░░░░   54.00 % 
-🌙 Night                  121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   134 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Tuesday                  121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Wednesday                80 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-Thursday                 191 commits         █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
-Friday                   107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Saturday                 136 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Sunday                   118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in C++** 
 
 ```text
@@ -84,7 +45,7 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2025 10:53:00 UTC
+ Last Updated on 18/09/2025 04:40:52 UTC
 <!--END_SECTION:waka-->
 
 
