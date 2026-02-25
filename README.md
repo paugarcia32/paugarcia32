@@ -1,10 +1,8 @@
-# hey there, i'm Pau 👋
+# hey there, i'm Pau
 
 _Junior Software Engineer / Network Engeener Graduate_
 
 Stack: TypeScript, Flutter, Arduino, ESP32
-
----
 
 ### my work
 
