@@ -19,6 +19,11 @@ Currently I'm a full stack developer, bulding a cross platform mobile app
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Six Months of Lessons](https://paugarcia32.dev/blog/six-moths-of-lesson/)
+- [IoT Open Platform: Connectivity Solutions](https://paugarcia32.dev/projects/iot-open-platform-connectivity-solutions/)
+- [Traffic Flow AI](https://paugarcia32.dev/projects/traffic-flow-ai/)
+- [IoT Real-Time Sensoring](https://paugarcia32.dev/projects/real-time-sensoring-iot/)
+- [Introduction to Embedded Systems](https://paugarcia32.dev/blog/introduction-to-embedded-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 
