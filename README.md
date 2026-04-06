@@ -19,9 +19,9 @@ Currently I'm a full stack developer, bulding a cross platform mobile app
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Observability](https://paugarcia32.dev/blog/observability/)
 - [Vector Databases](https://paugarcia32.dev/blog/vector-databases/)
 - [REST API Design Principles](https://paugarcia32.dev/blog/rest-api-design/)
-- [Six Months of Lessons](https://paugarcia32.dev/blog/six-moths-of-lesson/)
 - [IoT Open Platform: Connectivity Solutions](https://paugarcia32.dev/projects/iot-open-platform-connectivity-solutions/)
 - [Traffic Flow AI](https://paugarcia32.dev/projects/traffic-flow-ai/)
 <!-- BLOG-POST-LIST:END -->
