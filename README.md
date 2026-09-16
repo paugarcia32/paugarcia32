@@ -1,16 +1,17 @@
 # hey there, i'm Pau
 
-_Junior Software Engineer / Network Engeener Graduate_
+_Software Engineer / Network Engeener Graduate_
 
 Stack: TypeScript, Flutter, Arduino, ESP32
 
 ### my work
 
-Currently I'm a full stack developer, bulding a cross platform mobile app
+Currently I'm a backend developer
 
-- Flutter with BLoC
-- NestJS
-- Firebase Firestore & PostgresSQL
+- NodeJS
+- SQS & SNS
+- Serverless
+- PostgresSQL
 
 ### random stuff
 
