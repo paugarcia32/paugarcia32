@@ -20,11 +20,11 @@ Currently I'm a backend developer
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Pulse Notch](https://paugarcia32.dev/projects/pulse-notch/)
 - [Observability](https://paugarcia32.dev/blog/observability/)
 - [Vector Databases](https://paugarcia32.dev/blog/vector-databases/)
 - [REST API Design Principles](https://paugarcia32.dev/blog/rest-api-design/)
 - [IoT Open Platform: Connectivity Solutions](https://paugarcia32.dev/projects/iot-open-platform-connectivity-solutions/)
-- [Traffic Flow AI](https://paugarcia32.dev/projects/traffic-flow-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 
